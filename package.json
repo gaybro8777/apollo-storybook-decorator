@@ -35,7 +35,7 @@
     "react": "^16.3.2",
     "react-apollo": "^2.1.4",
     "react-dom": "^16.3.2",
-    "standard-version": "^4.2.0"
+    "standard-version": "^8.0.1"
   },
   "scripts": {
     "release": "standard-version",
